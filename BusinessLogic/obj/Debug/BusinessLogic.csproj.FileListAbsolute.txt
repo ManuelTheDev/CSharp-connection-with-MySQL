@@ -1,0 +1,14 @@
+C:\Users\Manutooth\source\repos\test\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Manutooth\source\repos\test\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Manutooth\source\repos\test\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\Manutooth\source\repos\test\BusinessLogic\bin\Debug\Modelo.dll
+C:\Users\Manutooth\source\repos\test\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\Manutooth\source\repos\test\BusinessLogic\bin\Debug\Modelo.pdb
+C:\Users\Manutooth\source\repos\test\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\Manutooth\source\repos\test\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Manutooth\source\repos\test\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\Manutooth\source\repos\test\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Manutooth\source\repos\test\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\Manutooth\source\repos\test\BusinessLogic\bin\Debug\MySql.Data.dll
+C:\Users\Manutooth\source\repos\test\BusinessLogic\bin\Debug\Google.Protobuf.dll
+C:\Users\Manutooth\source\repos\test\BusinessLogic\bin\Debug\MySql.Data.xml

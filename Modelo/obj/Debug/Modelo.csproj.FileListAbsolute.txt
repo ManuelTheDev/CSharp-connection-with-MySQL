@@ -1,0 +1,6 @@
+C:\Users\Manutooth\source\repos\test\Modelo\bin\Debug\Modelo.dll
+C:\Users\Manutooth\source\repos\test\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Manutooth\source\repos\test\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\Manutooth\source\repos\test\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Manutooth\source\repos\test\Modelo\obj\Debug\Modelo.dll
+C:\Users\Manutooth\source\repos\test\Modelo\obj\Debug\Modelo.pdb
